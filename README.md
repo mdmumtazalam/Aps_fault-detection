@@ -13,3 +13,15 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+
+To download your dataset
+
+...
+
+wget https://github.com/mdmumtazalam/Aps_fault-detection.git
+
+This file is edited by MD MUMTAZ ALAM
+
+this is changes made in neuro lab
+
